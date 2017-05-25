@@ -1,2 +1,2 @@
 # grassgisutils
-Utility for a better pythonic feeling of GRASS GIS
+Utility for a more pythonic feeling of GRASS GIS
